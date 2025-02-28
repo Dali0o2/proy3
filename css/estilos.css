@@ -1,0 +1,114 @@
+.main{
+    background-color: aqua;
+    width: 500px;height: 500px;
+}
+.ore1{
+    background-color: burlywood;
+    width: 50px;height: 50px;
+    position: relative;
+    top: 60px;left: 100px;
+    border-radius: 100px;
+}
+.ore2{
+    background-color: burlywood;
+    width: 50px;height: 50px;
+    position: relative;
+    top: 10px; left: 250px;
+    border-radius: 100px;
+}
+.eye{
+    background-color: black;
+    width: 20px;height: 20px;
+    position: relative;
+    top: 15px; left: 15px;
+    border-radius: 100px;
+}
+.cabe{
+    background-color: burlywood;
+    width: 150px;height: 150px;
+    position: relative;
+    left: 125px;
+    border-radius: 100px;
+}
+.ojo1{
+    background-color: black;
+    width: 40px;height: 40px;
+    position: relative;
+    top: 40px; left: 30px;
+    border-radius: 100px;
+}
+.ojo2{
+    background-color: black;
+    width: 40px;height: 40px;
+    position: relative;
+    left: 80px;
+    border-radius: 100px;
+}
+.naris{
+    background-color: black;
+    width: 15px;height: 15px;
+    position: relative;
+    top: 5px; left: 65px;
+    border-radius: 100px;
+
+}
+.boca{
+    background-color: black;
+    width: 50px;height: 20px;
+    position: relative;
+    top: 15px; left: 50px;
+    border-radius: 100px;
+}
+.estoma{
+    background-color: burlywood;
+    width: 200px;height: 200px;
+    position: absolute;
+    top:250px; left: 110px;
+    border-radius: 100px;
+}
+.panshita{
+    background-color: black;
+    width: 80px; height: 120px;
+    position: absolute;
+    top: 40px; left: 55px;
+    border-radius: 50px;
+}
+.manoiz{
+    background-color: black;
+    width: 100px;height: 50px;
+    position: absolute;
+    top:250px;left: 50px;
+    border-radius: 150px;
+
+}
+.manodere{
+    background-color: black;
+    width: 100px;height: 50px;
+    position: absolute;
+    top:250px;left: 250px;
+    border-radius: 150px;
+
+}
+.pieiz{
+    background-color: black;
+    width: 100px;height: 100px;
+    position: absolute;
+    top:350px;left: 50px;
+    border-radius: 100px;
+
+}
+.piedere{
+    background-color: black;
+    width: 100px;height: 100px;
+    position: absolute;
+    top:350px;left: 250px;
+    border-radius: 100px;
+
+}
+.linea{
+    background-color: beige;
+    width: 500px;
+    
+}
+
+
